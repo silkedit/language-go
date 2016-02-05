@@ -1,0 +1,10 @@
+{
+  "name": "language-go",
+  "version": "0.1.0",
+  "description": "Go language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-go.git"
+  },
+  "license": "MIT"
+}
